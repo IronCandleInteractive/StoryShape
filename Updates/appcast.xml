@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <item>
+      <title>StoryShape 0.1.21</title>
+      <link>https://storyshape.app</link>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 15 Oct 2026 03:10:19 +0000</pubDate>
+      <description># StoryShape 0.1.21 beta (build 22)
+
+StoryShape is a free, local-first writing studio for Apple-silicon Macs. The Mac source is open under Apache 2.0; the separate iPad application remains in development and closed source.
+
+This release retains the expanded, editable Wonderland Chapter I tour: five scenes, linked plot beats, freely arranged Board notes, a connected World Wiki, revision examples, and a five-stop journey map. The chapter text is Lewis Carroll's public-domain work in the United States; planning and World notes are illustrative additions.
+
+Write offers two editable scenes side by side, page and pageless views, margins and zoom, a centered focus view, and StoryShape Premium. Revise supports scene markup and numbered passes. World supports named links, an automatic or manually arranged connections graph, and a map you can consult while writing or planning.
+
+Build 22 is a freshly signed and notarized Mac download aligned with the Mac App Store packaging and review build. The DMG is for drag-to-Applications installation; the ZIP supplies the same signed app for the **manual** Check for Updates command. StoryShape does not check for updates automatically or upload project data.
+
+**Beta caution:** Keep independent backups of important work. Native macOS 14 GUI testing, physical 16 GB hardware testing, broader accessibility checks, and an independent writer pilot remain open. The Mac App Store and iPadOS editions are still in development.
+
+## Verify the downloads
+
+Checksums and exact byte sizes will be added after the DMG's separate Apple notarization and stapling complete.
+
+Report bugs or feature requests in [GitHub Issues](https://github.com/IronCandleInteractive/StoryShape/issues) or email support@ironcandleinteractive.com.
+</description>
+      <enclosure url="https://github.com/IronCandleInteractive/StoryShape/releases/download/v0.1.21/StoryShape-Standard-0.1.21-22-arm64.zip" length="14043779" type="application/octet-stream" sparkle:edSignature="l7wHwWFXjDBIYvZy0xIAcO/YTrjNtkHmJkU+uo3yhTyLLIwB5usiK3U7IGSTfAPBkwdmaxUkRkkIG+hxFDbJDQ=="></enclosure>
+    </item>
+    <item>
+      <title>StoryShape 0.1.20</title>
+      <link>https://storyshape.app</link>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 15 Oct 2026 01:56:09 +0000</pubDate>
+      <description>StoryShape 0.1.20 beta for Apple-silicon Macs
+
+This build expands the editable Wonderland tour into five Chapter I scenes with a connected plot, movable Board notes, source-linked Wiki entries, revision examples and a five-stop journey map. Carroll's original chapter is retained with the project; the planning and World material is illustrative.
+
+Write now supports two editable scenes side by side, page and pageless views with zoom and margins, a refined focus mode, and StoryShape Premium's warm interface with a white writing page. Revise includes scene-specific markup and numbered revision passes. World adds named connections with automatic and saved arrangements, along with a map you can open while writing or planning.
+
+This remains a beta. Keep independent backups of important writing. Native macOS 14 GUI, 16 GB hardware, broader input/accessibility and independent writer-pilot qualification remain open. The Mac App Store and iPad editions are still in development. Check for Updates runs only when you request it; StoryShape does not check at startup.
+
+The bundled dependency notice now names Sparkle and points to its included license.
+</description>
+      <enclosure url="https://github.com/IronCandleInteractive/StoryShape/releases/download/v0.1.20/StoryShape-Standard-0.1.20-21-arm64.zip" length="14043741" type="application/octet-stream" sparkle:edSignature="YXxHTjrye+Fj4hqiiID+UqIRR2EY2cpTiUfde0lttbwQtlD5+kXJgwyv4q0sDiWYWNRLO8i4bikmWds2ZdS+CA=="></enclosure>
+    </item>
+    <title>StoryShape updates</title>
+    <link>https://storyshape.app</link>
+    <description>Updates checked only at your request.</description>
+    <language>en</language>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: gmPTu5sVsZrgK7FPhxnWoFEnv8QntXq6RPxcq4hxAtg8PLjNGYJRvL3FHwcXPhDUZVHEE72gHGu6Fe3EiwggCw==
+length: 5136
+-->

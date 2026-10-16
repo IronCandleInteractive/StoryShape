@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug reports, feature requests, or general feedback
+    url: https://github.com/IronCandleInteractive/StoryShape-Feedback/issues/new/choose
+    about: Use the public feedback forms. Please do not post manuscripts or private project files.
+  - name: StoryShape support
+    url: https://storyshape.app/support/
+    about: Read the FAQ or contact product support.
