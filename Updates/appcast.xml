@@ -3,6 +3,32 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>StoryShape 0.1.22</title>
+      <link>https://storyshape.app</link>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 19 Oct 2026 17:27:19 +0000</pubDate>
+      <description># StoryShape 0.1.22 beta (build 23)
+
+StoryShape is a free Mac beta for writers building books, plots, and connected worlds. It works locally without an account or an internet connection for ordinary writing.
+
+This update focuses on the everyday flow of organizing a manuscript:
+
+- Books and chapters open as scene cards by default. You can rearrange cards and use the library's contextual actions to add or rename manuscript items.
+- Plan makes it easier to switch plots, choose a template, create a named beat, connect beats, and move around the canvas.
+- World opens to a Wiki home with topics, recent entries, and author-featured starting pages. Entry pages put relationships and backlinks beside the lore, with a path back to the home page.
+- The bundled Wonderland tour features key World pages to demonstrate the new Wiki navigation.
+
+The DMG is for Apple-silicon Macs running macOS 14 or later. The ZIP is for StoryShape's manual **Check for Updates** command; there are no automatic update checks. Existing local projects remain yours. As this is a beta, keep an independent backup of important work.
+
+StoryShape's current first-party source is maintained privately by Iron Candle Interactive. Earlier publicly released Apache-licensed source retains its historical license. Bug reports and feature requests are welcome at [StoryShape Feedback](https://github.com/IronCandleInteractive/StoryShape-Feedback).
+</description>
+      <enclosure url="https://github.com/IronCandleInteractive/StoryShape/releases/download/v0.1.22/StoryShape-Standard-0.1.22-23-arm64.zip" length="14308775" type="application/octet-stream" sparkle:edSignature="+zlRkB/HfgeA3y4MB/kNYVcoLQJ9vAQqDxsVaJdEe3es7I7maLvsB2zViPXHbTp05nlgGtySKGfBJFIB+5jtCw=="></enclosure>
+    </item>
+    <item>
       <title>StoryShape 0.1.21</title>
       <link>https://storyshape.app</link>
       <sparkle:version>22</sparkle:version>
@@ -58,6 +84,6 @@ The bundled dependency notice now names Sparkle and points to its included licen
     <language>en</language>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: gmPTu5sVsZrgK7FPhxnWoFEnv8QntXq6RPxcq4hxAtg8PLjNGYJRvL3FHwcXPhDUZVHEE72gHGu6Fe3EiwggCw==
-length: 5136
+edSignature: ryhNQimZ5CBPkRrcrMu7XmjzwpDOwXdBKuiVxlGJQMc9UQnxiGLIONNmdTucgPCJX3lqrVCPHLR8dkxlNfsUCw==
+length: 7369
 -->
